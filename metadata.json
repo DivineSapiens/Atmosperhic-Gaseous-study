@@ -1,0 +1,6 @@
+{
+  "name": "Atmospheric Gaseous Study",
+  "description": "A refined presentation control console featuring elegant real-time atmospheric particle animations like snowflakes and balloons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
